@@ -23,7 +23,7 @@ sites:
     check: "tcp-ping"
     url: 45.165.168.4
     port: 80
-  - name: Gtd Molina
+  - name: GTD Molina
     check: "tcp-ping"
     url: 200.126.94.34
     port: 80
